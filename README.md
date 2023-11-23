@@ -4,9 +4,9 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- ... (Add all team members with their IDs)
+- Member 1: [IMAM] - [4121600038]
+- Member 2: [YAAFI] - [4121600056]
+- Member 2: [RAKA] - [4121600060]
 
 ## Repository Structure
 
