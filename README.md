@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
+- Member 1: Fahri Alia Murtadho - 4121600059
 - Member 2: [Name] - [Student ID]
 - ... (Add all team members with their IDs)
 
