@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Member 1: Artaka Sunu A.P - 4121600057
+- Member 2: Artaka Sunu A.P - 4121600057
 - Member 2: [Name] - [Student ID]
 - ... (Add all team members with their IDs)
 
