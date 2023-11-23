@@ -4,9 +4,10 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Member 1: [IMAM TANTOWI ] - [4121600038]
-- Member 2: [YAPI] - [4121600056]
-- Member 2: [RAKA] - [4121600060]
+- Kelas B Meka 2023
+  - Member 1: Imam Tantowi Yahya - 4121600038
+  - Member 2: Yaafi Ahmad Alfatih - 4121600056
+  - Member 2: RM. Nararya Rakendra - 4121600060
 
 ## Repository Structure
 
