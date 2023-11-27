@@ -9,6 +9,10 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
   - Member 2: Yaafi Ahmad Alfatih - 4121600056
   - Member 3: RM. Nararya Rakendra - 4121600060
 
+- Kelas A Meka 2023:
+  - Member 1: Ubaidillah Ramadhan Nur Santoso - 4121600012
+  - Member 2: Zahra Athira - 4121600006
+
 ## Repository Structure
 
 This repository is organized into several folders to ensure a clear and manageable structure. Each folder has a specific purpose, as described below:
