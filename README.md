@@ -3,10 +3,10 @@
 Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
-
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- ... (Add all team members with their IDs)
+Group 2 Kelas Mekatronika B
+- Member 1: Akmal Nurhidayat - 4121600041
+- Member 2: Artaka Sunu A.P - 4121600057
+- Member 3: Fahri Alia Murtadho - 4121600059
 
 ## Repository Structure
 
