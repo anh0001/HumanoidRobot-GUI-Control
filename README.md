@@ -4,7 +4,12 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Mechatronics B 2021:
+- Mechatronics A 2021
+  - Muhammad Fahrizal - 4121600002
+  - M. Yusuf Fitrian - 4121600017
+  - M. Ishom Muwafaq - 4121600010
+    
+- Mechatronics B 2021
   - Imam Tantowi Yahya - 4121600038
   - Yaafi Ahmad Alfatih - 4121600056
   - RM. Nararya Rakendra - 4121600060
