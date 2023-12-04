@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Kelas B Meka 2023
+- Mechatronics B 2021:
   - Imam Tantowi Yahya - 4121600038
   - Yaafi Ahmad Alfatih - 4121600056
   - RM. Nararya Rakendra - 4121600060
