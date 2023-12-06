@@ -19,6 +19,10 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
   - Artaka Sunu A.P - 4121600057
   - Fahri Alia Murtadho - 4121600059
 
+- Kelas A Meka 2023:
+  - Member 1: Ubaidillah Ramadhan Nur Santoso - 4121600012
+  - Member 2: Zahra Athira - 4121600006
+
 ## Repository Structure
 
 This repository is organized into several folders to ensure a clear and manageable structure. Each folder has a specific purpose, as described below:
